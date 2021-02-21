@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Sarvesh Singh</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon/favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <!-- description -->
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <!-- heading1 -->
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&display=swap" rel="stylesheet">
+    <!-- para -->
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+
+<div class="top-container">
+  <img class="top-cloud" src="images/cloud.png" alt="">
+  <h1 class="name"> I'm Sarvesh</h1>
+  <p class="description"> A web developer</p>
+  <img class="bottom-cloud" src="images/cloud.png" alt="">
+  <img src="images/greenhill.png" alt="">
+
+</div>
+<div class="middle-container">
+  <div class="profile">
+  <img class="mypic"src="images/hii.png" alt="">
+  <h2 class="heading1">Hi..</h2>
+  <p class="para2">I am an entry level professioal and intent to be part of an organization where i can enhance my skills and can be part of an developing organization<p>
+</div>
+<hr>
+<div class="skills">
+  <h2 class="heading2">What I can do..</h2>
+  <div class="skill-row">
+    <img class="skill-pic" src="images/skill.png" alt="">
+    <h3 class="heading1">Design what you want.</h3>
+    <p class="web">I am intermediate in HTML and CSS and beginner in JavaScript and Bootstrap</p>
+  </div>
+  <div class="skill-row">
+    <img class="skills-pic" src="images/skill2.png" alt="">
+    <h3 class="heading1">Develop what you need.</h3>
+    <p class="web"> I am a developer and i love to develop and create my website with lot of innovvative ideas</p>
+</div>
+<hr>
+<div class="contact-me">
+  <h2 class="heading1">Get In Touch</h2>
+  <h3>I am currently  available</h3>
+  <p class="web">i am available for working as a web developer and designing websites for an organization</p>
+  <a class="btn" href="mailto:sarveshsingh92754@gmail.com">CONTACT ME</a>
+</div>
+</div>
+<div class="bottom-container">
+  <a class="link" href="https://www.instagram.com/samar_._2306/">instagram</a>
+  <a class="link" href="https://www.instagram.com/shagu.23/">Facebook</a>
+  <a class="link" href="https://www.linkedin.com/in/sarvesh-singh-04a643131">LinkedIn</a>
+  <p class="footer-link">© 2020 SARVESH SINGH.</p>
+
+</div>
+
+
+
+  </body>
+</html>
